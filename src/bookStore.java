@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class bookStore {
+public class bookStore extends loginPage {
 
-    public static void main(String[] args) {
-
+    public static void main (String[] args)  {
+        start();
         enter();
     }
 
